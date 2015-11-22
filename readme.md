@@ -18,6 +18,8 @@ A collection of high quality **Cheat Sheet**.
 * Gulp Cheat Sheet 2 by [Cogn Tom]()
 
 ### Javascript
+
+* AngularJS Cheat Sheet by [Opitz Consulting](http://www.opitz-consulting.com/) 
 * jQuery 1.7 Visual Cheat Sheet
 * Backbone.js Cheat Sheet by [igloolab](http://www.igloolab.com/)
 
@@ -41,6 +43,11 @@ A collection of high quality **Cheat Sheet**.
 * Django 1.5 CheatSheet by [revsys](http://www.revsys.com/)
 * Django 1.5 CheatSheet by [mercurytid](http://www.mercurytide.co.uk/)
 * Flask Cheatsheet by[idiotinside.com](http://www.idiotinside.com/)
+
+### MySQL
+* MySQL CheatSheet by[ilovejackiedaniels]()
+
+
 
 ### PHP
 * php depend pyramid by[tentwentyfour]()
