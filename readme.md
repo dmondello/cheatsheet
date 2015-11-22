@@ -6,12 +6,16 @@ A collection of high quality **Cheat Sheet**.
 ## List of Cheat-Sheet
 
 ### CSS
+* Bootstrap 3 cheatsheet
 * WebKit CSS3 Cheat Sheet by [Sencha](http://www.sencha.com/csscheatsheet)
 
-
+### Firebug
+* Firebug v 1.2 Cheat Sheet by [Duvet-Dayz.com] (http://duvet-dayz.com/) 
+ 
 ### Git
 * Github Cheat Sheet by [Github](https://github.com/)
 * Git Cheat Sheet by [Git Tower](http://www.git-tower.com)
+* Git Quick Refernce [Juan Pablo Justiniano]()
 
 ### Gulp
 * Gulp Cheat Sheet 1 by [Cogn Tom]()
@@ -44,10 +48,14 @@ A collection of high quality **Cheat Sheet**.
 * Django 1.5 CheatSheet by [mercurytid](http://www.mercurytide.co.uk/)
 * Flask Cheatsheet by[idiotinside.com](http://www.idiotinside.com/)
 
+### MongoDB
+* MongoDB CheatSheet by [MongoSoup](https://www.mongosoup.de/rmongodb.html)
+
 ### MySQL
-* MySQL CheatSheet by[ilovejackiedaniels]()
+* MySQL CheatSheet by [ilovejackiedaniels]()
 
-
+### NodeJS
+* Node JS Help sheet by [GO Squared](http://gosquared.com/liquidicity) 
 
 ### PHP
 * php depend pyramid by[tentwentyfour]()
