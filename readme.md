@@ -54,3 +54,6 @@ A collection of high quality **Cheat Sheet**.
 
 ### SEO
 * Seo Audit Infographic by [Inmotion Hosting](https://www.inmotionhosting.com)
+
+### Wordpress
+* Wordpress Complete Cheat Sheet by [Ekin Ertac](https://www.ekinertac.com)
