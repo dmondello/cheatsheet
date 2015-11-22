@@ -1,7 +1,7 @@
 # Cheat-Sheet Collection
 
 
-The most complete collection of high quality **Cheat Sheet**.
+A collection of high quality **Cheat Sheet**.
 
 ## List of Cheat-Sheet
 
