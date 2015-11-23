@@ -26,7 +26,7 @@ A collection of high quality **Cheat Sheet**.
 * AngularJS Cheat Sheet by [Opitz Consulting](http://www.opitz-consulting.com/) 
 * jQuery 1.7 Visual Cheat Sheet
 * Backbone.js Cheat Sheet by [igloolab](http://www.igloolab.com/)
-* javaScript quick reference bi[AddedBytes](http://addedbytes.com)
+* javaScript quick reference by[AddedBytes](http://addedbytes.com)
 
 ### Hosting
 * Where does your website live by [Inmotion Hosting](https://www.inmotionhosting.com)
