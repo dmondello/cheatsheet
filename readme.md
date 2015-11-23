@@ -78,3 +78,5 @@ A collection of high quality **Cheat Sheet**.
 
 ### Wordpress
 * Wordpress Complete Cheat Sheet by [Ekin Ertac](https://www.ekinertac.com)
+* WordPress 3.0 Cheat Sheet by [AcademiaPHP](http://www.academiaphp.com)
+* The-Ultimate-WordPress-Development-Checklist [wefixyourwp](http://wefixyourwp.com) 
