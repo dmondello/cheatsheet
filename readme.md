@@ -67,6 +67,10 @@ A collection of high quality **Cheat Sheet**.
 ### Python
 * Python 2.4 Quick Reference Card by Laurent Pointal
 
+### Ruby
+* Ruby 1.8.4 Cheat Scheet by  [Cenophobie](https://www.cenophobie.com/)
+* Rails Cheat Scheet by [Addedbytes](https://www.addedbytes.com/)
+
 ### SEO
 * Seo Audit Infographic by [Inmotion Hosting](https://www.inmotionhosting.com)
 
