@@ -76,6 +76,8 @@ A collection of high quality **Cheat Sheet**.
 * Seo Audit Infographic by [Inmotion Hosting](https://www.inmotionhosting.com)
 * The Web Developer’s SEO Cheat Sheet [Moz](http://www.moz.com)
 
+### Sketch 
+* Sketch 3 Cheat Sheet[Manuel Ebert]() 
 
 ### Wordpress
 * Wordpress Complete Cheat Sheet by [Ekin Ertac](https://www.ekinertac.com)
